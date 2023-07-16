@@ -1,10 +1,9 @@
-Hi 👋 My name is Phutthikiat
+Hi Everyone👋 
 ============================
 
 Student
 -------
-
-I am studying at Bangpakok Wittayakom School.
+My name is Phutthikiat, I am studying at Bangpakok Wittayakom School.
 
 * 🧠  I'm learning Python / HTML / CSS / Javascript / C
 
