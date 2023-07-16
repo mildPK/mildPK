@@ -4,10 +4,12 @@ Hi Everyone👋
 Student
 -------
 My name is Phutthikiat, I am studying at Bangpakok Wittayakom School.
+สวัสดีครับผม พุฒิเกียรติ แก้วกล้า เป็นนักเรียนกำลังศึกษาอยู่ชื่นชอบในการเขียนโปรแกรมและการพัฒนาตนเองหาความรู้ใหม่ๆ
+ปัจจุบันยังขาดประสบการณ์และความรู้อีกมากจึงสร้าง Github มาเพื่อการนี้ครับ
 
 * 🧠  I'm learning Python / HTML / CSS / Javascript / C
 
-### Skills
+### My Skills :
 
 
 <p align="left">
@@ -19,6 +21,6 @@ My name is Phutthikiat, I am studying at Bangpakok Wittayakom School.
 </p>
 
 
-### Socials
+### Socials :
 
 <p align="left"> <a href="https://www.facebook.com/Phutthikiat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/mildPK" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mxnd.pk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
